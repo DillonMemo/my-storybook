@@ -12,7 +12,7 @@
 
 ## Component Library
 
--   [x] Autocomplete
+-   [ ] Autocomplete
 -   [ ] Avatar
 -   [ ] Badge
 -   [x] Button
@@ -28,7 +28,7 @@
 -   [ ] Feedback
 -   [ ] Fieldset
 -   [ ] File Tree
--   [x] Icon
+-   [ ] Icon
 -   [ ] Input
 -   [ ] Keyboard Input
 -   [ ] Loading Dots
